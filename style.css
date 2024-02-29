@@ -89,3 +89,15 @@ body {
     background-color: var(--line-border-empty);
     cursor: not-allowed;
 }
+@media(max-width:480px){
+    .progress-container{
+        max-width: 100%;
+        width: 350PX;
+        margin-bottom: 20PX;
+    }
+    .btn{
+        padding: 5px 15px;
+        margin: 10px;
+        font-size: 20PX;
+    }
+}
