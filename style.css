@@ -89,7 +89,7 @@ body {
     background-color: var(--line-border-empty);
     cursor: not-allowed;
 }
-@media(max-width:480px){
+@media(max-width:680px){
     .progress-container{
         max-width: 100%;
         width: 250PX;
