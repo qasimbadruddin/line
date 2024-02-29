@@ -92,7 +92,7 @@ body {
 @media(max-width:480px){
     .progress-container{
         max-width: 100%;
-        width: 350PX;
+        width: 250PX;
         margin-bottom: 20PX;
     }
     .btn{
